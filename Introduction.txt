@@ -1,0 +1,29 @@
+1-Source codes for demo:
+   	https://github.com/tpsreng/csharpdemo
+
+2-C# Tutorials: 
+	https://www.tutorialsteacher.com/csharp
+	https://www.w3schools.com/cs/index.php
+
+	https://www.youtube.com/watch?v=HB1aPYPPJ24&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-
+	https://www.youtube.com/watch?v=QAHfPdZnBGQ&list=PLq5Uz3LSFff8GmtFeoXRZCtWBKQ0kWl-H
+	https://www.youtube.com/watch?v=52r9qUToOD8&list=PLLAZ4kZ9dFpNIBTYHNDrhfE9C-imUXCmk&index=1	
+	
+3-Online Compilers:
+	https://dotnetfiddle.net/
+	https://onecompiler.com/csharp
+	https://replit.com/languages/csharp (charge)
+
+4-Editors:
+	VS Code: https://code.visualstudio.com/
+	Visual Studio 2022 (community edition): https://visualstudio.microsoft.com/
+
+5-Net CLI to create .net project (for sdk 6)
+	Console app > dotnet new console -o FirstConsoleApp -f net6.0 --use-program-main
+        WinForm app > dotnet new WinForms -o FirstWinFormApp -f net6.0 --use-program-main
+
+6-Tutorial for creating a console project in VS code
+	https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code
+
+7-Tutorial for creating a console project in Visual Studio 2022
+	https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio?pivots=dotnet-6-0
