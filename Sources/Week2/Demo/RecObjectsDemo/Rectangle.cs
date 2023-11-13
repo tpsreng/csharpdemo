@@ -7,7 +7,7 @@
         public static int FieldWidth = 8;
         public static int DecimalPoint = 2;
        
-        //static metnods
+        //static methods
         public static string GetHeading()
         {
             string nameText = string.Format($"{{0,{FieldWidth}}}", "width");
