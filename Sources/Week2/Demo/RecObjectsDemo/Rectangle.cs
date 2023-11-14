@@ -10,10 +10,10 @@
         //static metnods
         public static string GetHeading()
         {
-            string nameText = string.Format($"{{0,{FieldWidth}}}", "width");
-            string genderText = string.Format($"{{0,{FieldWidth}}}", "length");
-            string ageText = string.Format($"{{0, {FieldWidth}}}", "area");
-            return $"{nameText} {genderText} {ageText}";
+            string wdText = string.Format($"{{0,{FieldWidth}}}", "width");
+            string lngText = string.Format($"{{0,{FieldWidth}}}", "length");
+            string areaText = string.Format($"{{0, {FieldWidth}}}", "area");
+            return $"{wdText} {lngText} {areaText}";
         }
 
         public static string GetBar(char c = '-')
